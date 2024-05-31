@@ -1,0 +1,17 @@
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+ul > li {
+    text-decoration: none;
+    list-style: none;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+}
