@@ -11,11 +11,11 @@
     Nossas redes sociais!
     <br />
     Paulo Victor
-    <a href="#">Linkedin</a> •
+    <a href="https://www.linkedin.com/in/paulopbi/">Linkedin</a> •
     <a href="https://github.com/paulopbi">Github</a>
     |
      Thiago
-    <a href="#">Linkedin</a> •
+    <a href="https://www.linkedin.com/in/thiaguinho-dev/">Linkedin</a> •
     <a href="https://github.com/Thiaguinhopbi">Github</a>
   </p>
 </div>
@@ -26,12 +26,13 @@
 
 Esse projeto é o site oficial da **Brisa Telecom**, foi criado por Thiago e Paulo Victor utilize esse `readme.md` para entender mais sobre.
 
-o site é totalmente responsivo para todos os tamanhos de tela, a cima você pode ver um preview do site!
+O site é totalmente responsivo para todos os tamanhos de tela, acima você pode ver um preview do site!
 
-Técnologias utilizadas:
+Tecnologias utilizadas:
 
 * HTML
 * CSS
 * BOOTSTRAP
+* JAVASCRIPT
 
 <br>
