@@ -1,5 +1,5 @@
-.contato-container-div ul li a:visited{
-    color: #e6844f;
+#contato ul h2 {
+    font-weight: bold;
 }
 
 @media (max-width: 768px) {
