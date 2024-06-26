@@ -1,5 +1,6 @@
 @import url("./modules/estilosGerais.css");
 @import url("./modules/contato.css");
+@import url("./modules/efeitoScroll.css");
 
 .btn-orange {
     background-color: #E45E16;
@@ -15,7 +16,6 @@
 .text_slide {
     color: black;
 }
-
 
 
 .navbar-orange {
@@ -44,6 +44,3 @@
         color: black;
     }
 }
-
-
-
